@@ -1,4 +1,7 @@
 ## Hi there 👋
+- ✨ I'm Silvia
+- 🔭 I’m currently working on schoolwork
+- 🌱 I’m currently learning SQL
 
 <!--
 **sdyankova/sdyankova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
